@@ -1,0 +1,1 @@
+L’*ichidanka* 一段化, “trasformazione in *ichidan*”, è un fenomeno che interessa i verbi.

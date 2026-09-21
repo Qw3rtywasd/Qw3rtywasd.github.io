@@ -2,8 +2,8 @@
 - Continuum di variazione diatopica (dialetti) solo all’interno del Giappone
 - Accento tonale
 - Tipologia [[Morfologia|morfologica]] [[Flessione|flessivo]]-[[Agglutinazione|agglutinante]]
-- Struttura grammaticale: ordine sintattico SOV; struttura [[Tema e rema|tema-rema]]
+- Struttura grammaticale: ordine sintattico Soggetto-Oggetto-Verbo; struttura [[Tema e rema|tema-rema]]
 - Sistema di scrittura ibrido
-- [[Lessico nativo]] di [[Colori|colori]] e [[Numerali|numerali]] semplice, ma [[Termini di parentela|termini di parentela]] complessi
+- [[Lessico nativo]] di [[Lessico dei colori nel giapponese antico|colori]] e [[Numerali|numerali]] semplice, ma [[Termini di parentela|termini di parentela]] complessi
 - Linguaggio relazionale
 - Grande quantità di prestiti linguistici (*kango* 漢語 e *katakana-go* カタカナ語)

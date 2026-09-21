@@ -32,16 +32,16 @@ Nel giapponese tardo antico tra le tre antiche particelle di genitivo *no*, *tu*
 Dalla contrazione di *nani* + *to* nasce la particella *nado*, rappresentata dal carattere 等 e quindi letta *ra* nei testi influenzati dal cinese.
 Delle due particelle enfatiche *namu* e *zo*, la prima viene usata solo nella prosa e la seconda nella poesia.
 # *Kakari musubi*
-Il *kakari musubi* è una <span class="underline">struttura sintattica</span> caratteristica del giapponese antico e tardo antico che scomparirà nel passaggio da giapponese medio a pre-moderno.
-In pratica, quando in una frase compare una particella enfatica o interrogativa, il verbo finale deve per forza cambiare forma per accordarsi con essa (anche se normalmente dovrebbe essere in forma conclusiva *shūshikei*). Nella maggior parte dei casi si trasforma in *rentaikei*, ma con la particella *koso* (e *ya* nel giapponese antico) si usa la *izenkei*.
+Il *kakari musubi* è una <span class="underline">struttura sintattica</span> caratteristica del giapponese antico e tardo antico, scomparsa nel passaggio dal giapponese medio a quello pre-moderno.
+Consiste nel <span class="underline">cambiamento della forma del verbo</span> finale (che normalmente sarebbe in forma conclusiva *shūshikei*) <span class="underline">quando nella frase è presente una particella enfatica o interrogativa</span>. Nella maggior parte dei casi il verbo si trasforma in *rentaikei*, ma con la particella *koso* (e *ya* nel giapponese antico) si usa la *izenkei*.
 
-| Particella *kakari* | Forma *musubi*                                |
-| ------------------- | --------------------------------------------- |
-| *ka*                | *Rentaikei*                                   |
-| *ya*                | *Rentaikei* o *izenkei* nel giapponese antico |
-| *zo*                | *Rentaikei*                                   |
-| *namu*              | *Rentaikei*                                   |
-| *koso*              | *Izenkei*                                     |
+| Particella (*kakari*) | Forma verbale richiesta (*musubi*)            |
+| --------------------- | --------------------------------------------- |
+| *ka*                  | *Rentaikei*                                   |
+| *ya*                  | *Rentaikei* o *izenkei* nel giapponese antico |
+| *zo*                  | *Rentaikei*                                   |
+| *namu*                | *Rentaikei*                                   |
+| *koso*                | *Izenkei*                                     |
 
 
 [^1]: Si ritiene che prima fosse un verbo *shimo nidan*.

@@ -1,4 +1,4 @@
-- [[Lessico nativo]]: [[Colori|colori]], [[Numerali|numerali]] e [[Termini di parentela|termini di parentela]]
+- [[Lessico nativo]]: [[Lessico dei colori nel giapponese antico|colori]], [[Numerali|numerali]] e [[Termini di parentela|termini di parentela]]
 - Composto in maggioranza da sostantivi, dai quali sono derivati verbi e aggettivi (es. 青 (sost.) > 青い (agg.))
 - I verbi hanno un’ampia sfera semantica (un verbo, tanti significati)
 - La stragrande maggioranza delle parole ha origine giapponese (*wago* o *yamatokotoba* 和語), ma esistono già prestiti dal cinese (*kango* 漢語) legati al buddhismo o alla burocrazia, dal sanscrito e forse anche da coreano e ainu

@@ -1,6 +1,6 @@
-- Il lessico di origine giapponese aumenta
+- Il lessico di origine giapponese (*wago* 和語) aumenta
 	- attraverso la formazione di [[Composti e derivati|composti e derivati]]
 		- nomi + aggettivi
-		- + raka yaka adaadawdnwd
-	- aumentano gli [[Ideofoni|ideofoni]] e in misura minore le onomatopee
-- Con l’influenza della cultura continentale il lessico di origine cinese si diffonde in ogni ambito: poesia, commentari, critica, letteratura
+		- attraverso i suffissi *-ka*, *-raka*, *-yaka*
+		- aumentano gli [[Ideofoni|ideofoni]] e in misura minore le onomatopee
+- Con l’influenza della cultura continentale il <span class="underline">lessico di origine cinese</span> (*kango* 漢語) si diffonde in ogni ambito: poesia, commentari, critica, letteratura

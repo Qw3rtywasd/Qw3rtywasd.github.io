@@ -6,16 +6,12 @@ body {
   font-size: 1.2em;
 }
 
-p {
+h1 {
   margin: 0;
 }
 
-h1 {
-  margin-bottom: 0;
-}
-
 h2 {
-  margin-bottom: 0;
+  margin: 0;
 }
 
 .page > #quartz-body .page-header {
@@ -75,6 +71,7 @@ p, li {
 
 .popover > .popover-inner {
   width: 50rem;
+  max-height: 20rem;
   box-shadow: none;
   border: 2px solid var(--gray);
 }
